@@ -3,3 +3,6 @@
 // times as the input number
 //
 // Name the function "finalFunction"
+
+funalFunction()
+let enterANumber = prompt(num('Enter a number:'))
